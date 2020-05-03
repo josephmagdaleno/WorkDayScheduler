@@ -2,10 +2,10 @@
 Program to help plan out a 9-5 work day.
 
 # General
- The program gives the current date/time.
-It gives color ques to tell when the hour of the day has passed upcoming on current.
-This application takes user input and saves it to local storage to hold on to the data.
-The application also utilizes JSON and (this) functions.
+-The program gives the current date/time.
+-It gives color ques to tell when the hour of the day has passed upcoming on current.
+-This application takes user input and saves it to local storage to hold on to the data.
+-The application also utilizes JSON and (this) functions.
 
 # Features
 Friendly user interface
